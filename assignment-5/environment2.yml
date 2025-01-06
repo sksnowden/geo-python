@@ -1,0 +1,10 @@
+
+name: a5-env
+channels:
+- conda-forge
+dependencies:
+ - requests=2.32.3
+ - pystac-client=0.8.5
+ - matplotlib=3.9.4
+ - jupyterlab=4.3.4
+ - shapely=2.0.6
